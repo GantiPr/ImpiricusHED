@@ -14,12 +14,17 @@ A full-stack application for managing physician messages and checking compliance
 
 **Backend:**
 ```bash
+# Install dependencies
 pip install -r backend/requirements.txt
+
+# Load data into database (IMPORTANT: Run this first!)
 python backend/load_data.py
+
+# Start backend server
 cd backend && python -m uvicorn app.main:app --reload
 ```
 
-**Frontend:**
+**Frontend (in a new terminal):**
 ```bash
 cd frontend
 npm install
@@ -29,6 +34,8 @@ npm run dev
 - Backend: http://localhost:8000
 - Frontend: http://localhost:3000
 - API Docs: http://localhost:8000/docs
+
+**Important**: Make sure to run `python backend/load_data.py` before starting the backend server. This creates the database and loads the CSV data.
 
 ### Using Docker
 

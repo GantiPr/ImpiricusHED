@@ -1,7 +1,12 @@
 from sqlalchemy import create_engine, Column, Integer, String, Boolean, Float, DateTime
 from sqlalchemy.orm import declarative_base, sessionmaker
+import os
 
-DATABASE_URL = "sqlite:///./data/healthcare_engagement.db"
+# Handle both root and backend directory execution
+if os.path.exists("./data/healthcare_engagement.db"):
+    DATABASE_URL = "sqlite:///./data/healthcare_engagement.db"
+else:
+    DATABASE_URL = "sqlite:///../data/healthcare_engagement.db"
 
 engine = create_engine(DATABASE_URL, connect_args={"check_same_thread": False})
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
