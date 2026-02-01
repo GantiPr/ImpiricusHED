@@ -83,7 +83,8 @@ ImpiricusHED/
 ## Testing
 
 ```bash
-pytest backend/tests/ -v
+cd backend
+PYTHONPATH=. pytest tests/ -v
 ```
 
 9 tests covering all API endpoints and compliance logic.

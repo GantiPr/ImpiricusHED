@@ -60,6 +60,10 @@ class ComplianceResult(BaseModel):
 # Compliance Checker
 class ComplianceChecker:
     def __init__(self, policies_path: str = "data/compliance_policies.json"):
+        import os
+        # Handle both root and backend directory execution
+        if not os.path.exists(policies_path):
+            policies_path = f"../{policies_path}"
         with open(policies_path, 'r') as f:
             self.policies = json.load(f)
         self.rules = self.policies.get("rules", [])
