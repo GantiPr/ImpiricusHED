@@ -1,0 +1,26 @@
+physician_id,npi,first_name,last_name,specialty,state,consent_opt_in,preferred_channel
+101,1089250953,Drew,Nguyen,Cardiology,MA,True,sms
+102,1654571517,Casey,Garcia,Oncology,NJ,False,voice
+103,1433015235,Sam,Patel,Cardiology,NJ,True,sms
+104,1085945638,Casey,Davis,Cardiology,CT,True,voice
+105,1201469535,Drew,Anderson,Pulmonology,FL,False,sms
+106,1526478978,Jamie,Martinez,Gastroenterology,NY,True,sms
+107,1735752369,Elliot,Lee,Neurology,MA,True,sms
+108,1717477276,Casey,Thomas,Neurology,NJ,True,sms
+109,1513226572,Sam,Nguyen,Neurology,GA,False,voice
+110,1839748228,Riley,Thomas,Cardiology,CA,False,voice
+111,1500351914,Jordan,White,Dermatology,NJ,False,voice
+112,1182549636,Riley,Jackson,Neurology,CT,True,voice
+113,1781567454,Jordan,Patel,Endocrinology,MA,True,sms
+114,1402414363,Kai,Kim,Oncology,FL,True,email
+115,1545429118,Jamie,Wilson,Neurology,PA,False,email
+116,1450459552,Morgan,Kim,Gastroenterology,NJ,False,voice
+117,1554584786,Drew,Garcia,Pulmonology,CT,True,sms
+118,1063817255,Jamie,Lee,Gastroenterology,CT,True,voice
+119,1827631170,Morgan,Jackson,Cardiology,CT,False,sms
+120,1631664398,Hayden,Johnson,Dermatology,MA,False,sms
+121,1758087739,Casey,White,Neurology,CT,True,voice
+122,1354525967,Jamie,Lee,Family Medicine,PA,False,email
+123,1970698023,Taylor,Kim,Pulmonology,MA,False,voice
+124,1893121120,Cameron,Lee,Dermatology,GA,True,sms
+125,1778383496,Taylor,Davis,Family Medicine,NJ,True,sms

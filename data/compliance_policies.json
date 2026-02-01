@@ -1,0 +1,52 @@
+{
+  "version": "v1",
+  "updated": "2025-09-22",
+  "rules": [
+    {
+      "id": "R-001",
+      "name": "No off-label claims",
+      "keywords_any": [
+        "off-label",
+        "unapproved use"
+      ],
+      "action": "flag"
+    },
+    {
+      "id": "R-002",
+      "name": "Include safety statement when mentioning dosing",
+      "keywords_any": [
+        "dosing",
+        "titration"
+      ],
+      "requires_append": "See PI for full safety info."
+    },
+    {
+      "id": "R-003",
+      "name": "No patient PHI",
+      "keywords_any": [
+        "DOB:",
+        "SSN",
+        "MRN"
+      ],
+      "action": "reject"
+    },
+    {
+      "id": "R-004",
+      "name": "Samples request needs rep follow-up",
+      "keywords_any": [
+        "samples",
+        "sample request"
+      ],
+      "action": "route_to_rep"
+    },
+    {
+      "id": "R-005",
+      "name": "Clinical trial info must cite registry",
+      "keywords_any": [
+        "trial",
+        "clinical trial"
+      ],
+      "requires_append": "Refer to ClinicalTrials.gov for eligibility details."
+    }
+  ]
+}

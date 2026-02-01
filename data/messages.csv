@@ -1,0 +1,201 @@
+message_id,physician_id,channel,direction,timestamp,message_text,campaign_id,topic,compliance_tag,sentiment,delivery_status,response_latency_sec
+10195,116,email,outbound,2025-07-25T07:14:32,Schedule a rep connect call next week.,CMP-29,scheduling,needs_review,negative,delivered,
+10140,125,sms,outbound,2025-07-25T21:04:32,Requesting patient samples for clinic use.,CMP-96,samples,allowed,negative,bounced,
+10193,109,voice,outbound,2025-07-26T00:05:32,Clarify dosing schedule and titration.,CMP-96,dosing,needs_review,neutral,delivered,
+10094,124,voice,outbound,2025-07-26T01:40:32,Safety profile and contraindications.,CMP-82,safety,allowed,neutral,delivered,
+10170,108,email,inbound,2025-07-26T01:48:32,Clarify dosing schedule and titration.,CMP-33,dosing,needs_review,neutral,delivered,549.0
+10067,122,email,inbound,2025-07-26T13:20:32,Eligibility for clinical trial referral.,CMP-85,trial,allowed,negative,delivered,1254.0
+10075,104,voice,outbound,2025-07-26T18:55:32,Schedule a rep connect call next week.,CMP-97,scheduling,allowed,neutral,delivered,
+10153,106,email,inbound,2025-07-27T04:53:32,Question about reimbursement and prior auth forms.,CMP-32,reimbursement,disallowed,neutral,delivered,650.0
+10004,112,email,outbound,2025-07-27T08:02:32,Schedule a rep connect call next week.,CMP-32,scheduling,needs_review,positive,delivered,
+10077,105,email,outbound,2025-07-28T04:55:32,Schedule a rep connect call next week.,CMP-23,scheduling,allowed,negative,delivered,
+10176,123,sms,outbound,2025-07-28T14:30:32,Eligibility for clinical trial referral.,CMP-27,trial,allowed,positive,bounced,
+10013,122,voice,outbound,2025-07-29T06:54:32,Requesting patient samples for clinic use.,CMP-40,samples,needs_review,negative,delivered,
+10059,108,sms,inbound,2025-07-29T11:00:32,Safety profile and contraindications.,CMP-91,safety,allowed,neutral,delivered,2755.0
+10177,124,email,outbound,2025-07-29T16:05:32,Requesting patient samples for clinic use.,CMP-58,samples,allowed,neutral,delivered,
+10151,125,sms,inbound,2025-07-29T18:33:32,Question about reimbursement and prior auth forms.,CMP-36,reimbursement,allowed,neutral,delivered,2728.0
+10116,104,sms,outbound,2025-07-29T23:10:32,Safety profile and contraindications.,CMP-68,safety,allowed,neutral,delivered,
+10096,102,sms,outbound,2025-07-30T02:38:32,Question about reimbursement and prior auth forms.,CMP-98,reimbursement,allowed,positive,delivered,
+10063,114,email,outbound,2025-07-30T03:22:32,Medical information request on latest data.,CMP-83,medical_info,allowed,neutral,bounced,
+10149,104,voice,inbound,2025-07-30T09:19:32,Schedule a rep connect call next week.,CMP-34,scheduling,allowed,neutral,delivered,2341.0
+10130,108,email,inbound,2025-07-30T11:46:32,Eligibility for clinical trial referral.,CMP-98,trial,allowed,negative,delivered,1612.0
+10028,123,voice,inbound,2025-07-30T12:58:32,Requesting patient samples for clinic use.,CMP-43,samples,allowed,positive,delivered,1127.0
+10158,106,sms,inbound,2025-07-30T21:52:32,Medical information request on latest data.,CMP-72,medical_info,allowed,neutral,delivered,634.0
+10095,115,sms,outbound,2025-07-31T01:48:32,Schedule a rep connect call next week.,CMP-43,scheduling,allowed,neutral,delivered,
+10053,107,email,outbound,2025-07-31T13:53:32,Question about reimbursement and prior auth forms.,CMP-88,reimbursement,allowed,positive,failed,
+10083,121,sms,outbound,2025-08-01T06:48:32,Question about reimbursement and prior auth forms.,CMP-40,reimbursement,allowed,neutral,delivered,
+10017,122,voice,outbound,2025-08-01T12:03:32,Medical information request on latest data.,CMP-27,medical_info,allowed,positive,delivered,
+10038,103,voice,outbound,2025-08-02T02:12:32,Question about reimbursement and prior auth forms.,CMP-62,reimbursement,needs_review,negative,delivered,
+10051,125,voice,outbound,2025-08-02T02:16:32,Safety profile and contraindications.,CMP-31,safety,allowed,positive,delivered,
+10147,119,email,outbound,2025-08-02T02:53:32,Medical information request on latest data.,CMP-14,medical_info,allowed,neutral,failed,
+10198,108,voice,inbound,2025-08-02T02:55:32,Schedule a rep connect call next week.,CMP-21,scheduling,disallowed,negative,delivered,1091.0
+10104,113,sms,outbound,2025-08-02T20:17:32,Schedule a rep connect call next week.,CMP-65,scheduling,allowed,positive,failed,
+10025,111,voice,outbound,2025-08-03T08:21:32,Eligibility for clinical trial referral.,CMP-82,trial,allowed,positive,delivered,
+10183,125,voice,outbound,2025-08-03T08:50:32,Eligibility for clinical trial referral.,CMP-92,trial,allowed,negative,delivered,
+10101,123,voice,outbound,2025-08-03T09:11:32,Clarify dosing schedule and titration.,CMP-15,dosing,allowed,neutral,delivered,
+10108,116,sms,outbound,2025-08-03T16:18:32,Eligibility for clinical trial referral.,CMP-89,trial,allowed,positive,delivered,
+10092,123,sms,outbound,2025-08-03T17:24:32,Requesting patient samples for clinic use.,CMP-82,samples,allowed,neutral,delivered,
+10161,107,email,outbound,2025-08-03T22:37:32,Schedule a rep connect call next week.,CMP-80,scheduling,allowed,neutral,bounced,
+10001,123,sms,outbound,2025-08-05T09:14:32,Question about reimbursement and prior auth forms.,CMP-58,reimbursement,needs_review,neutral,delivered,
+10134,109,email,inbound,2025-08-05T20:22:32,Clarify dosing schedule and titration.,CMP-55,dosing,needs_review,positive,delivered,2599.0
+10070,110,sms,outbound,2025-08-06T13:58:32,Schedule a rep connect call next week.,CMP-93,scheduling,allowed,negative,delivered,
+10021,110,email,inbound,2025-08-07T07:42:32,Medical information request on latest data.,CMP-81,medical_info,allowed,neutral,delivered,2034.0
+10076,125,sms,inbound,2025-08-07T17:50:32,Eligibility for clinical trial referral.,CMP-64,trial,needs_review,neutral,delivered,2958.0
+10110,111,voice,outbound,2025-08-08T00:47:32,Requesting patient samples for clinic use.,CMP-30,samples,disallowed,neutral,delivered,
+10035,115,email,outbound,2025-08-08T01:55:32,Requesting patient samples for clinic use.,CMP-79,samples,allowed,negative,bounced,
+10052,112,sms,outbound,2025-08-08T10:27:32,Schedule a rep connect call next week.,CMP-40,scheduling,allowed,neutral,delivered,
+10122,119,voice,outbound,2025-08-09T15:49:32,Schedule a rep connect call next week.,CMP-78,scheduling,allowed,neutral,delivered,
+10129,107,sms,inbound,2025-08-10T00:59:32,Safety profile and contraindications.,CMP-30,safety,needs_review,neutral,delivered,289.0
+10178,101,voice,outbound,2025-08-10T06:11:32,Eligibility for clinical trial referral.,CMP-15,trial,needs_review,negative,delivered,
+10071,113,voice,outbound,2025-08-10T07:11:32,Requesting patient samples for clinic use.,CMP-29,samples,needs_review,positive,delivered,
+10079,121,email,outbound,2025-08-10T14:09:32,Eligibility for clinical trial referral.,CMP-85,trial,needs_review,neutral,delivered,
+10192,112,sms,outbound,2025-08-10T18:43:32,Question about reimbursement and prior auth forms.,CMP-77,reimbursement,allowed,neutral,failed,
+10034,110,sms,outbound,2025-08-11T00:09:32,Question about reimbursement and prior auth forms.,CMP-80,reimbursement,allowed,positive,delivered,
+10169,112,voice,outbound,2025-08-11T09:24:32,Requesting patient samples for clinic use.,CMP-13,samples,allowed,neutral,delivered,
+10162,102,sms,outbound,2025-08-11T16:57:32,Question about reimbursement and prior auth forms.,CMP-22,reimbursement,allowed,negative,delivered,
+10111,113,voice,outbound,2025-08-11T19:08:32,Safety profile and contraindications.,CMP-69,safety,allowed,negative,bounced,
+10135,105,voice,outbound,2025-08-12T01:32:32,Clarify dosing schedule and titration.,CMP-27,dosing,allowed,neutral,delivered,
+10145,117,sms,outbound,2025-08-12T05:26:32,Safety profile and contraindications.,CMP-59,safety,allowed,positive,delivered,
+10200,107,email,outbound,2025-08-12T15:33:32,Question about reimbursement and prior auth forms.,CMP-74,reimbursement,allowed,positive,delivered,
+10091,120,email,outbound,2025-08-12T23:31:32,Safety profile and contraindications.,CMP-71,safety,allowed,negative,delivered,
+10155,106,email,outbound,2025-08-13T11:58:32,Clarify dosing schedule and titration.,CMP-18,dosing,allowed,neutral,delivered,
+10020,117,email,outbound,2025-08-13T12:26:32,Question about reimbursement and prior auth forms.,CMP-10,reimbursement,needs_review,negative,delivered,
+10188,119,sms,outbound,2025-08-13T14:25:32,Requesting patient samples for clinic use.,CMP-46,samples,allowed,neutral,delivered,
+10093,104,email,outbound,2025-08-13T18:20:32,Question about reimbursement and prior auth forms.,CMP-89,reimbursement,allowed,neutral,delivered,
+10118,124,email,inbound,2025-08-14T01:02:32,Schedule a rep connect call next week.,CMP-94,scheduling,needs_review,neutral,delivered,3463.0
+10117,117,email,inbound,2025-08-14T06:17:32,Schedule a rep connect call next week.,CMP-62,scheduling,allowed,neutral,delivered,429.0
+10167,117,voice,outbound,2025-08-14T12:27:32,Medical information request on latest data.,CMP-45,medical_info,allowed,negative,delivered,
+10114,124,voice,outbound,2025-08-15T09:58:32,Question about reimbursement and prior auth forms.,CMP-63,reimbursement,needs_review,positive,delivered,
+10194,119,sms,inbound,2025-08-15T12:39:32,Schedule a rep connect call next week.,CMP-81,scheduling,allowed,neutral,delivered,2975.0
+10002,105,email,outbound,2025-08-15T12:59:32,Eligibility for clinical trial referral.,CMP-97,trial,needs_review,positive,delivered,
+10119,111,voice,inbound,2025-08-15T16:23:32,Safety profile and contraindications.,CMP-85,safety,disallowed,positive,delivered,3271.0
+10009,104,voice,inbound,2025-08-15T16:55:32,Question about reimbursement and prior auth forms.,CMP-31,reimbursement,allowed,negative,delivered,3483.0
+10012,117,sms,outbound,2025-08-15T22:25:32,Requesting patient samples for clinic use.,CMP-19,samples,allowed,positive,delivered,
+10109,112,email,outbound,2025-08-16T13:38:32,Medical information request on latest data.,CMP-46,medical_info,allowed,positive,delivered,
+10033,111,email,inbound,2025-08-16T22:56:32,Medical information request on latest data.,CMP-45,medical_info,allowed,neutral,delivered,3233.0
+10088,102,voice,outbound,2025-08-18T02:09:32,Medical information request on latest data.,CMP-34,medical_info,allowed,positive,delivered,
+10072,103,sms,outbound,2025-08-18T05:14:32,Requesting patient samples for clinic use.,CMP-57,samples,allowed,positive,delivered,
+10010,114,voice,inbound,2025-08-18T08:35:32,Safety profile and contraindications.,CMP-98,safety,disallowed,negative,delivered,1176.0
+10152,120,sms,inbound,2025-08-18T15:43:32,Question about reimbursement and prior auth forms.,CMP-86,reimbursement,allowed,positive,delivered,2833.0
+10089,120,sms,outbound,2025-08-18T18:49:32,Clarify dosing schedule and titration.,CMP-16,dosing,allowed,neutral,delivered,
+10172,101,voice,outbound,2025-08-18T19:06:32,Safety profile and contraindications.,CMP-51,safety,allowed,positive,delivered,
+10081,105,email,outbound,2025-08-19T18:22:32,Schedule a rep connect call next week.,CMP-33,scheduling,allowed,positive,bounced,
+10030,103,email,outbound,2025-08-19T19:40:32,Medical information request on latest data.,CMP-48,medical_info,allowed,positive,delivered,
+10068,108,voice,outbound,2025-08-19T21:50:32,Schedule a rep connect call next week.,CMP-43,scheduling,allowed,negative,delivered,
+10024,102,voice,outbound,2025-08-19T22:27:32,Question about reimbursement and prior auth forms.,CMP-61,reimbursement,allowed,positive,bounced,
+10191,106,sms,outbound,2025-08-20T00:59:32,Safety profile and contraindications.,CMP-53,safety,allowed,negative,delivered,
+10054,122,sms,outbound,2025-08-20T02:00:32,Schedule a rep connect call next week.,CMP-61,scheduling,allowed,neutral,delivered,
+10107,122,email,outbound,2025-08-20T11:25:32,Clarify dosing schedule and titration.,CMP-75,dosing,allowed,negative,delivered,
+10166,120,voice,outbound,2025-08-20T12:42:32,Clarify dosing schedule and titration.,CMP-37,dosing,allowed,neutral,delivered,
+10127,111,email,outbound,2025-08-20T16:02:32,Medical information request on latest data.,CMP-58,medical_info,allowed,positive,delivered,
+10132,124,email,outbound,2025-08-21T01:17:32,Eligibility for clinical trial referral.,CMP-94,trial,allowed,neutral,delivered,
+10121,116,sms,outbound,2025-08-21T03:38:32,Schedule a rep connect call next week.,CMP-43,scheduling,disallowed,positive,delivered,
+10048,119,email,outbound,2025-08-21T05:48:32,Schedule a rep connect call next week.,CMP-26,scheduling,allowed,neutral,delivered,
+10099,113,sms,outbound,2025-08-21T10:04:32,Schedule a rep connect call next week.,CMP-17,scheduling,allowed,positive,delivered,
+10016,117,email,outbound,2025-08-21T11:36:32,Schedule a rep connect call next week.,CMP-17,scheduling,allowed,neutral,delivered,
+10138,114,sms,outbound,2025-08-21T11:58:32,Eligibility for clinical trial referral.,CMP-44,trial,needs_review,neutral,delivered,
+10003,101,voice,inbound,2025-08-21T17:02:32,Medical information request on latest data.,CMP-65,medical_info,allowed,positive,delivered,1794.0
+10174,116,email,outbound,2025-08-21T17:36:32,Safety profile and contraindications.,CMP-75,safety,allowed,neutral,delivered,
+10014,118,voice,outbound,2025-08-21T21:07:32,Eligibility for clinical trial referral.,CMP-70,trial,allowed,negative,delivered,
+10044,120,email,outbound,2025-08-22T00:01:32,Clarify dosing schedule and titration.,CMP-50,dosing,allowed,neutral,delivered,
+10019,122,sms,outbound,2025-08-22T05:58:32,Eligibility for clinical trial referral.,CMP-40,trial,needs_review,negative,bounced,
+10173,121,voice,outbound,2025-08-22T15:29:32,Requesting patient samples for clinic use.,CMP-20,samples,allowed,neutral,delivered,
+10179,119,sms,outbound,2025-08-22T21:45:32,Requesting patient samples for clinic use.,CMP-91,samples,needs_review,neutral,delivered,
+10181,124,voice,inbound,2025-08-23T03:35:32,Requesting patient samples for clinic use.,CMP-65,samples,allowed,positive,delivered,1590.0
+10142,112,voice,outbound,2025-08-23T06:32:32,Eligibility for clinical trial referral.,CMP-96,trial,allowed,neutral,delivered,
+10154,110,voice,inbound,2025-08-23T08:18:32,Question about reimbursement and prior auth forms.,CMP-40,reimbursement,allowed,neutral,delivered,681.0
+10120,102,sms,inbound,2025-08-23T09:51:32,Safety profile and contraindications.,CMP-11,safety,allowed,negative,delivered,2520.0
+10106,110,sms,outbound,2025-08-23T10:40:32,Schedule a rep connect call next week.,CMP-80,scheduling,allowed,neutral,delivered,
+10105,102,email,inbound,2025-08-23T13:07:32,Safety profile and contraindications.,CMP-95,safety,allowed,neutral,delivered,2508.0
+10085,108,sms,outbound,2025-08-24T00:11:32,Eligibility for clinical trial referral.,CMP-80,trial,allowed,neutral,delivered,
+10049,117,email,outbound,2025-08-24T01:02:32,Safety profile and contraindications.,CMP-48,safety,allowed,negative,delivered,
+10185,112,sms,inbound,2025-08-26T05:47:32,Schedule a rep connect call next week.,CMP-84,scheduling,allowed,neutral,delivered,1707.0
+10197,113,sms,outbound,2025-08-26T06:38:32,Requesting patient samples for clinic use.,CMP-26,samples,allowed,neutral,delivered,
+10189,116,voice,inbound,2025-08-26T09:46:32,Medical information request on latest data.,CMP-59,medical_info,allowed,neutral,delivered,1876.0
+10005,112,sms,inbound,2025-08-26T12:01:32,Clarify dosing schedule and titration.,CMP-35,dosing,needs_review,neutral,delivered,559.0
+10137,108,email,inbound,2025-08-26T12:30:32,Requesting patient samples for clinic use.,CMP-63,samples,needs_review,neutral,delivered,640.0
+10062,121,voice,outbound,2025-08-26T22:07:32,Safety profile and contraindications.,CMP-36,safety,allowed,neutral,delivered,
+10199,123,voice,outbound,2025-08-26T22:46:32,Clarify dosing schedule and titration.,CMP-53,dosing,allowed,neutral,failed,
+10047,115,email,outbound,2025-08-27T01:05:32,Schedule a rep connect call next week.,CMP-25,scheduling,needs_review,neutral,delivered,
+10084,115,email,outbound,2025-08-27T03:05:32,Safety profile and contraindications.,CMP-61,safety,allowed,positive,delivered,
+10064,119,email,outbound,2025-08-27T06:13:32,Clarify dosing schedule and titration.,CMP-63,dosing,allowed,neutral,bounced,
+10058,109,email,outbound,2025-08-27T14:54:32,Schedule a rep connect call next week.,CMP-67,scheduling,needs_review,neutral,bounced,
+10050,121,voice,inbound,2025-08-27T19:57:32,Clarify dosing schedule and titration.,CMP-84,dosing,allowed,neutral,delivered,138.0
+10184,115,sms,outbound,2025-08-28T00:15:32,Question about reimbursement and prior auth forms.,CMP-93,reimbursement,allowed,positive,delivered,
+10060,118,voice,outbound,2025-08-28T04:23:32,Question about reimbursement and prior auth forms.,CMP-44,reimbursement,allowed,positive,delivered,
+10165,105,voice,outbound,2025-08-28T13:41:32,Schedule a rep connect call next week.,CMP-64,scheduling,allowed,neutral,delivered,
+10148,123,email,outbound,2025-08-28T18:04:32,Safety profile and contraindications.,CMP-97,safety,disallowed,negative,delivered,
+10159,102,email,outbound,2025-08-28T23:10:32,Requesting patient samples for clinic use.,CMP-89,samples,allowed,positive,delivered,
+10066,115,email,outbound,2025-08-29T21:03:32,Safety profile and contraindications.,CMP-31,safety,allowed,neutral,delivered,
+10168,108,sms,inbound,2025-08-30T10:53:32,Medical information request on latest data.,CMP-89,medical_info,allowed,neutral,delivered,2129.0
+10146,108,email,outbound,2025-08-31T08:17:32,Schedule a rep connect call next week.,CMP-29,scheduling,allowed,neutral,delivered,
+10150,119,email,outbound,2025-08-31T10:21:32,Question about reimbursement and prior auth forms.,CMP-52,reimbursement,allowed,neutral,delivered,
+10113,107,email,inbound,2025-08-31T12:34:32,Question about reimbursement and prior auth forms.,CMP-34,reimbursement,allowed,positive,delivered,2187.0
+10061,119,email,inbound,2025-08-31T18:57:32,Requesting patient samples for clinic use.,CMP-98,samples,allowed,positive,delivered,2037.0
+10037,110,email,outbound,2025-08-31T21:54:32,Question about reimbursement and prior auth forms.,CMP-62,reimbursement,allowed,neutral,delivered,
+10056,121,sms,inbound,2025-09-01T23:20:32,Schedule a rep connect call next week.,CMP-41,scheduling,allowed,positive,delivered,1698.0
+10156,110,email,inbound,2025-09-02T08:13:32,Eligibility for clinical trial referral.,CMP-38,trial,allowed,neutral,delivered,524.0
+10082,102,sms,outbound,2025-09-02T10:07:32,Clarify dosing schedule and titration.,CMP-45,dosing,allowed,negative,delivered,
+10144,111,email,inbound,2025-09-02T12:06:32,Clarify dosing schedule and titration.,CMP-15,dosing,allowed,positive,delivered,1558.0
+10087,110,sms,inbound,2025-09-02T13:34:32,Medical information request on latest data.,CMP-71,medical_info,allowed,positive,delivered,1476.0
+10043,111,voice,outbound,2025-09-02T14:21:32,Schedule a rep connect call next week.,CMP-24,scheduling,disallowed,neutral,bounced,
+10055,122,sms,outbound,2025-09-02T19:28:32,Requesting patient samples for clinic use.,CMP-64,samples,needs_review,negative,bounced,
+10022,118,voice,outbound,2025-09-02T21:29:32,Question about reimbursement and prior auth forms.,CMP-79,reimbursement,allowed,negative,delivered,
+10180,105,email,outbound,2025-09-02T23:23:32,Requesting patient samples for clinic use.,CMP-68,samples,disallowed,positive,bounced,
+10157,118,voice,outbound,2025-09-03T08:51:32,Medical information request on latest data.,CMP-92,medical_info,needs_review,neutral,delivered,
+10036,106,email,outbound,2025-09-03T15:45:32,Question about reimbursement and prior auth forms.,CMP-15,reimbursement,allowed,positive,delivered,
+10112,112,sms,outbound,2025-09-03T17:29:32,Question about reimbursement and prior auth forms.,CMP-44,reimbursement,allowed,neutral,delivered,
+10018,111,sms,outbound,2025-09-03T21:29:32,Question about reimbursement and prior auth forms.,CMP-80,reimbursement,needs_review,positive,delivered,
+10027,105,sms,outbound,2025-09-04T17:20:32,Clarify dosing schedule and titration.,CMP-11,dosing,allowed,negative,bounced,
+10133,121,email,outbound,2025-09-04T22:46:32,Medical information request on latest data.,CMP-87,medical_info,allowed,neutral,delivered,
+10045,105,voice,inbound,2025-09-05T00:24:32,Requesting patient samples for clinic use.,CMP-42,samples,allowed,neutral,delivered,1001.0
+10126,118,email,inbound,2025-09-05T17:17:32,Clarify dosing schedule and titration.,CMP-41,dosing,allowed,neutral,delivered,2841.0
+10100,113,email,outbound,2025-09-05T17:31:32,Medical information request on latest data.,CMP-98,medical_info,allowed,positive,delivered,
+10143,102,email,outbound,2025-09-05T20:59:32,Eligibility for clinical trial referral.,CMP-91,trial,allowed,neutral,delivered,
+10098,105,sms,inbound,2025-09-06T01:09:32,Medical information request on latest data.,CMP-35,medical_info,needs_review,neutral,delivered,2509.0
+10128,113,voice,outbound,2025-09-06T22:07:32,Eligibility for clinical trial referral.,CMP-42,trial,allowed,neutral,delivered,
+10006,101,email,inbound,2025-09-07T07:25:32,Eligibility for clinical trial referral.,CMP-10,trial,disallowed,negative,delivered,2460.0
+10008,105,sms,outbound,2025-09-07T09:25:32,Eligibility for clinical trial referral.,CMP-18,trial,needs_review,positive,delivered,
+10141,104,voice,outbound,2025-09-08T05:14:32,Medical information request on latest data.,CMP-57,medical_info,allowed,positive,delivered,
+10123,111,email,outbound,2025-09-08T13:27:32,Medical information request on latest data.,CMP-40,medical_info,allowed,neutral,delivered,
+10029,125,email,inbound,2025-09-08T18:39:32,Question about reimbursement and prior auth forms.,CMP-79,reimbursement,allowed,positive,delivered,2996.0
+10097,117,email,outbound,2025-09-09T00:00:32,Question about reimbursement and prior auth forms.,CMP-19,reimbursement,allowed,positive,bounced,
+10125,124,voice,inbound,2025-09-09T10:22:32,Requesting patient samples for clinic use.,CMP-13,samples,allowed,neutral,delivered,943.0
+10042,124,sms,outbound,2025-09-09T12:41:32,Schedule a rep connect call next week.,CMP-45,scheduling,allowed,neutral,bounced,
+10046,104,voice,outbound,2025-09-09T13:12:32,Eligibility for clinical trial referral.,CMP-95,trial,needs_review,neutral,delivered,
+10175,109,email,outbound,2025-09-09T16:06:32,Clarify dosing schedule and titration.,CMP-49,dosing,allowed,neutral,delivered,
+10086,118,email,inbound,2025-09-09T17:46:32,Clarify dosing schedule and titration.,CMP-34,dosing,allowed,positive,delivered,3586.0
+10160,110,voice,outbound,2025-09-10T07:34:32,Clarify dosing schedule and titration.,CMP-74,dosing,allowed,neutral,delivered,
+10065,114,voice,inbound,2025-09-10T09:38:32,Medical information request on latest data.,CMP-38,medical_info,allowed,positive,delivered,1097.0
+10015,119,email,inbound,2025-09-10T10:44:32,Question about reimbursement and prior auth forms.,CMP-55,reimbursement,allowed,neutral,delivered,686.0
+10041,120,sms,inbound,2025-09-10T12:25:32,Question about reimbursement and prior auth forms.,CMP-54,reimbursement,allowed,negative,delivered,2833.0
+10031,114,voice,outbound,2025-09-10T23:49:32,Question about reimbursement and prior auth forms.,CMP-29,reimbursement,allowed,negative,delivered,
+10040,101,voice,inbound,2025-09-11T00:01:32,Clarify dosing schedule and titration.,CMP-58,dosing,allowed,neutral,delivered,31.0
+10186,124,voice,inbound,2025-09-11T03:54:32,Eligibility for clinical trial referral.,CMP-51,trial,allowed,negative,delivered,964.0
+10136,122,sms,inbound,2025-09-11T05:26:32,Schedule a rep connect call next week.,CMP-14,scheduling,allowed,neutral,delivered,2087.0
+10090,116,email,outbound,2025-09-11T13:09:32,Question about reimbursement and prior auth forms.,CMP-11,reimbursement,allowed,neutral,delivered,
+10026,124,email,inbound,2025-09-12T16:01:32,Question about reimbursement and prior auth forms.,CMP-43,reimbursement,allowed,neutral,delivered,2269.0
+10039,118,sms,inbound,2025-09-12T16:06:32,Clarify dosing schedule and titration.,CMP-95,dosing,needs_review,neutral,delivered,723.0
+10032,122,email,outbound,2025-09-13T05:00:32,Schedule a rep connect call next week.,CMP-74,scheduling,allowed,neutral,bounced,
+10190,109,voice,outbound,2025-09-13T16:38:32,Medical information request on latest data.,CMP-83,medical_info,allowed,positive,bounced,
+10074,124,voice,outbound,2025-09-13T21:52:32,Clarify dosing schedule and titration.,CMP-35,dosing,allowed,negative,delivered,
+10057,101,sms,outbound,2025-09-14T00:16:32,Medical information request on latest data.,CMP-50,medical_info,allowed,neutral,delivered,
+10078,103,email,outbound,2025-09-14T01:07:32,Medical information request on latest data.,CMP-76,medical_info,allowed,positive,delivered,
+10139,122,sms,outbound,2025-09-14T02:29:32,Medical information request on latest data.,CMP-53,medical_info,needs_review,negative,delivered,
+10196,105,sms,outbound,2025-09-16T11:26:32,Question about reimbursement and prior auth forms.,CMP-94,reimbursement,needs_review,neutral,delivered,
+10102,113,email,inbound,2025-09-16T17:51:32,Eligibility for clinical trial referral.,CMP-96,trial,allowed,positive,delivered,1806.0
+10131,112,email,inbound,2025-09-16T20:42:32,Question about reimbursement and prior auth forms.,CMP-23,reimbursement,disallowed,negative,delivered,463.0
+10011,112,voice,outbound,2025-09-17T00:56:32,Schedule a rep connect call next week.,CMP-25,scheduling,allowed,neutral,delivered,
+10080,119,email,inbound,2025-09-17T18:23:32,Medical information request on latest data.,CMP-67,medical_info,needs_review,positive,delivered,1060.0
+10007,109,email,outbound,2025-09-18T01:24:32,Requesting patient samples for clinic use.,CMP-49,samples,needs_review,negative,delivered,
+10163,122,email,outbound,2025-09-18T05:08:32,Clarify dosing schedule and titration.,CMP-18,dosing,allowed,positive,bounced,
+10182,121,email,outbound,2025-09-18T23:26:32,Safety profile and contraindications.,CMP-31,safety,needs_review,neutral,delivered,
+10103,105,voice,outbound,2025-09-18T23:45:32,Requesting patient samples for clinic use.,CMP-15,samples,disallowed,neutral,delivered,
+10023,117,voice,outbound,2025-09-19T03:00:32,Requesting patient samples for clinic use.,CMP-30,samples,allowed,neutral,bounced,
+10187,113,voice,outbound,2025-09-19T22:23:32,Safety profile and contraindications.,CMP-45,safety,allowed,neutral,delivered,
+10171,125,sms,outbound,2025-09-20T05:17:32,Safety profile and contraindications.,CMP-21,safety,allowed,neutral,failed,
+10115,113,voice,outbound,2025-09-20T06:55:32,Requesting patient samples for clinic use.,CMP-94,samples,allowed,positive,delivered,
+10124,101,voice,inbound,2025-09-20T20:34:32,Question about reimbursement and prior auth forms.,CMP-22,reimbursement,allowed,neutral,delivered,952.0
+10069,123,email,outbound,2025-09-21T16:06:32,Clarify dosing schedule and titration.,CMP-63,dosing,allowed,negative,delivered,
+10164,113,sms,outbound,2025-09-22T02:06:32,Requesting patient samples for clinic use.,CMP-17,samples,allowed,neutral,delivered,
+10073,116,voice,outbound,2025-09-22T06:24:32,Schedule a rep connect call next week.,CMP-49,scheduling,allowed,neutral,delivered,
